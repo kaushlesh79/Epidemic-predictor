@@ -12,6 +12,8 @@ const geistMono = localFont({
   weight: "100 900",
 });
 
+//direct
+
 export default function Home() {
   return (
     <div
@@ -75,7 +77,7 @@ export default function Home() {
             src="https://nextjs.org/icons/file.svg"
             alt="File icon"
             width={16}
-            height={16}
+            height={16} 
           />
           Learn
         </a>
