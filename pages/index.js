@@ -91,7 +91,7 @@ export default function Home() {
             aria-hidden
             src="https://nextjs.org/icons/window.svg"
             alt="Window icon"
-            width={16}
+            width={16} 
             height={16}
           />
           Examples
